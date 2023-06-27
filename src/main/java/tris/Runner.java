@@ -13,7 +13,7 @@ public class Runner {
 
 		Scanner gamer = new Scanner(System.in);  
 		Symbol us = null;
-		comAI Ai = new comAI();
+		ComAI Ai = new ComAI();
 		try{
 	    
 		for (int i=1; i<3; i++) {
