@@ -1,7 +1,7 @@
 package tris;
 import java.util.Random;
 
-public class comAI extends Giocatore{
+public class ComAI extends Giocatore{
 	
 	public void getAI(int a, Symbol v1) {
 		
