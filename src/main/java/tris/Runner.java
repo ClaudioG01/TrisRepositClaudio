@@ -121,7 +121,7 @@ public class Runner {
 	    	turne = game.getS1();
 	    }else {
 	    	game.setPedina(ped1, ped2, game.getS2());
-	    	turne = game.getS1();
+	    	turne = game.getS2();
 	    }
 		game.getGrid();
 		
